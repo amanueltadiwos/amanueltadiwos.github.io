@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Wheat Yield prediction using Deep learning for Gojam Ethiopia](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
